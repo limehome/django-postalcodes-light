@@ -1,0 +1,9 @@
+{
+    "$schema": "https://hub.dev.limehome.com/schemas/project-definition-v2.schema.json",
+    "project": {
+        "name": "django-postalcodes-light",
+        "type": "library",
+        "summary": "Django/postal codes utility (README not available)",
+        "description": "django-postalcodes-light likely provides lightweight postal/zip code data or helpers for Django apps. Without README, scope is inferred from the name."
+    }
+}
