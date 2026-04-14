@@ -10,6 +10,9 @@
         "name": "django-postalcodes-light",
         "type": "pypi"
       }
+    ],
+    "owners": [
+      "unowned"
     ]
   }
 }
