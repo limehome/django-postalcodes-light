@@ -4,12 +4,8 @@
     "name": "django-postalcodes-light",
     "type": "library",
     "summary": "Django app providing a lightweight data model for storing and querying postal codes with location data",
-    "description": "django-postalcodes-light provides a simple Django data model for storing postal codes with place names and geographic coordinates. Used where services need to look up or validate postal codes without a heavyweight dependency.",
+    "description": "django-postalcodes-light provides a simple Django data model for storing postal codes with place names and geographic coordinates. Used where services need to look up or validate postal codes without a heavyweight dependency. Fork of original package to add support for newer Django versions; not distributed via pypi, installed from git directly",
     "packages": [
-      {
-        "name": "django-postalcodes-light",
-        "type": "pypi"
-      }
     ],
     "owners": [
       "unowned"
